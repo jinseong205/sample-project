@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
@@ -13,6 +13,6 @@
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="c48c8b13-68d8-42da-8b32-d8002dcd6b1b" />
+    <option name="uniqueId" value="5a952271-9bb9-4ef6-b3e2-d401278a8de0" />
   </component>
 </module>
